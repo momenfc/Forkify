@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --out-dir ./dist"
+    "start": "parcel index.html"
   },
   "author": "Momen Nasser",
   "license": "ISC",
